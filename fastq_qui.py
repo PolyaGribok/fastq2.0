@@ -611,3 +611,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+    root.mainloop()
+
+if __name__ == "__main__":
+    main()
