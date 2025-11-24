@@ -33,4 +33,4 @@
    pip install -r requirements.txt
 
 3. **Запустите программу**
-   python fastq_gui.py   
+   python fastq_qui.py   
